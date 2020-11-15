@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cagin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cagin\\.nuget\\packages"
+    ]
+  }
+}
